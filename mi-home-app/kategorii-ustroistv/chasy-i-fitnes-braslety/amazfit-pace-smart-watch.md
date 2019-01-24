@@ -1,0 +1,2 @@
+# Amazfit Pace Smart Watch
+

@@ -1,0 +1,2 @@
+# YUNMAI mini 2
+
