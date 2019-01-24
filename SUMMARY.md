@@ -185,5 +185,6 @@
 * [Телевизоры](televizory-proektory-i-pristavki-xiaomi/televizory.md)
 * [Приставки \(TV Box\) Xiaomi](televizory-proektory-i-pristavki-xiaomi/pristavki-tv-box-xiaomi.md)
 * [Проекторы Xiaomi](televizory-proektory-i-pristavki-xiaomi/proektory-xiaomi/README.md)
+  * [Mijia Projector Youth Version](televizory-proektory-i-pristavki-xiaomi/proektory-xiaomi/mijia-projector-youth-version.md)
   * [Mijia TV 4K Laser Projection](televizory-proektory-i-pristavki-xiaomi/proektory-xiaomi/mijia-tv-4k-laser-projection.md)
 
