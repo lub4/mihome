@@ -180,7 +180,7 @@
 * [Мышки](noutbuki-i-aksessuary/myshki/README.md)
   * [Xiaomi Lofree Bluetooth Wireless Mouse](noutbuki-i-aksessuary/myshki/xiaomi-lofree-bluetooth-wireless-mouse.md)
 
-## Планшеты
+## Телевизоры, проекторы и приставки Xiaomi
 
-* [Untitled](planshety/untitled.md)
+* [Телевизоры](televizory-proektory-i-pristavki-xiaomi/televizory.md)
 
