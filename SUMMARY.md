@@ -83,6 +83,7 @@
       * [Светодиодная лента Yeelight Plus](mi-home-app/kategorii-ustroistv/osveshenie/drugoe/svetodiodnaya-lenta-yeelight-plus.md)
       * [Лента Philips ZhiYi Strip](mi-home-app/kategorii-ustroistv/osveshenie/drugoe/lenta-philips-zhiyi-strip.md)
       * [Светодиодная лента Yeelight Strip](mi-home-app/kategorii-ustroistv/osveshenie/drugoe/svetodiodnaya-lenta-yeelight-strip.md)
+      * [Интеллектуальная система освещения Xiaomi Mijia Nanoleaf](mi-home-app/kategorii-ustroistv/osveshenie/drugoe/intellektualnaya-sistema-osvesheniya-xiaomi-mijia-nanoleaf.md)
   * [Бытовая техника](mi-home-app/kategorii-ustroistv/bytovaya-tekhnika/README.md)
     * [Для дома](mi-home-app/kategorii-ustroistv/bytovaya-tekhnika/dlya-doma/README.md)
       * [Вентиляторы](mi-home-app/kategorii-ustroistv/bytovaya-tekhnika/dlya-doma/ventilyatory.md)
