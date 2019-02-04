@@ -86,6 +86,8 @@
       * [Интеллектуальная система освещения Xiaomi Mijia Nanoleaf](mi-home-app/kategorii-ustroistv/osveshenie/drugoe/intellektualnaya-sistema-osvesheniya-xiaomi-mijia-nanoleaf.md)
   * [Бытовая техника](mi-home-app/kategorii-ustroistv/bytovaya-tekhnika/README.md)
     * [Для дома](mi-home-app/kategorii-ustroistv/bytovaya-tekhnika/dlya-doma/README.md)
+      * [Умные дверные замки](mi-home-app/kategorii-ustroistv/bytovaya-tekhnika/dlya-doma/umnye-dvernye-zamki/README.md)
+        * [Умный замок Xiaomi Mijia Smart Door Lock \(Carbon Black\)](mi-home-app/kategorii-ustroistv/bytovaya-tekhnika/dlya-doma/umnye-dvernye-zamki/umnyi-zamok-xiaomi-mijia-smart-door-lock-carbon-black.md)
       * [Вентиляторы](mi-home-app/kategorii-ustroistv/bytovaya-tekhnika/dlya-doma/ventilyatory.md)
       * [Кондиционеры](mi-home-app/kategorii-ustroistv/bytovaya-tekhnika/dlya-doma/kondicionery.md)
       * [Обгреватели](mi-home-app/kategorii-ustroistv/bytovaya-tekhnika/dlya-doma/obgrevateli.md)
