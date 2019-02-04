@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Товары и устройства Xiaomi](README.md)
-* [Untitled](untitled.md)
 
 ## Экосистема Mijia \(Mi Home\)
 
