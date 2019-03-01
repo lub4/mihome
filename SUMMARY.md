@@ -88,7 +88,7 @@
       * [Климатическая техника](mi-home-app/kategorii-ustroistv/bytovaya-tekhnika/dlya-doma/klimaticheskaya-tekhnika/README.md)
         * [Осушители воздуха](mi-home-app/kategorii-ustroistv/bytovaya-tekhnika/dlya-doma/klimaticheskaya-tekhnika/osushiteli-vozdukha/README.md)
           * [Xiaomi Deerma Mini DEM-CS10M](mi-home-app/kategorii-ustroistv/bytovaya-tekhnika/dlya-doma/klimaticheskaya-tekhnika/osushiteli-vozdukha/xiaomi-deerma-mini-dem-cs10m.md)
-        * [Xiaomi New Widetech Dehumidifier WDH318EFW1](mi-home-app/kategorii-ustroistv/bytovaya-tekhnika/dlya-doma/klimaticheskaya-tekhnika/xiaomi-new-widetech-dehumidifier-wdh318efw1.md)
+          * [Xiaomi New Widetech Dehumidifier WDH318EFW1](mi-home-app/kategorii-ustroistv/bytovaya-tekhnika/dlya-doma/klimaticheskaya-tekhnika/osushiteli-vozdukha/xiaomi-new-widetech-dehumidifier-wdh318efw1.md)
         * [Вентиляторы](mi-home-app/kategorii-ustroistv/bytovaya-tekhnika/dlya-doma/klimaticheskaya-tekhnika/ventilyatory.md)
         * [Анализаторы воздуха](mi-home-app/kategorii-ustroistv/bytovaya-tekhnika/dlya-doma/klimaticheskaya-tekhnika/analizatory-vozdukha.md)
         * [Увлажнители воздуха](mi-home-app/kategorii-ustroistv/bytovaya-tekhnika/dlya-doma/klimaticheskaya-tekhnika/uvlazhniteli-vozdukha.md)
