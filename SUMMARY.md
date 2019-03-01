@@ -13,6 +13,8 @@
 
 ## Экосистема Mijia \(Mi Home\)
 
+* [Новинки краудфандинга Xiaomi youpin](ekosistema-mijia-mi-home/novinki-kraudfandinga-xiaomi-youpin/README.md)
+  * [Xiaomi AFU Aphrodite Oil Fragrance AFU-XM-001](ekosistema-mijia-mi-home/novinki-kraudfandinga-xiaomi-youpin/xiaomi-afu-aphrodite-oil-fragrance-afu-xm-001.md)
 * [Категории устройств](ekosistema-mijia-mi-home/kategorii-ustroistv/README.md)
   * [Красота и здоровье](ekosistema-mijia-mi-home/kategorii-ustroistv/krasota-i-zdorove/README.md)
     * [Умные весы](ekosistema-mijia-mi-home/kategorii-ustroistv/krasota-i-zdorove/umnye-vesy/README.md)
