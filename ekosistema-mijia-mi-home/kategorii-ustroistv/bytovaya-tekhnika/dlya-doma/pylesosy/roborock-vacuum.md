@@ -1,2 +1,0 @@
-# Roborock Vacuum
-

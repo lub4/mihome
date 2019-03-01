@@ -6,7 +6,7 @@ description: Осушитель воздуха Xiaomi New Widetech Dehumidifier 
 
 Источник: [https://www.xiaomiyoupin.com/detail?gid=105493](https://www.xiaomiyoupin.com/detail?gid=105493)
 
-![](../../../../../../.gitbook/assets/new_widetech.jpg)
+![](../../../../../.gitbook/assets/new_widetech.jpg)
 
 |  |  |
 | :--- | :--- |
