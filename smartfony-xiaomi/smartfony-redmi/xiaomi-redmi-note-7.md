@@ -1,4 +1,4 @@
-# Xiaomi Redmi Note 7
+# Xiaomi Redmi Note 7 CN (Китайская версия)
 
 {% tabs %}
 {% tab title="Характеристики" %}
