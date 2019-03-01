@@ -4,7 +4,7 @@ description: >-
   Xiaomi Ultrasonic Toothbrush
 ---
 
-# Mi Elecric Toothbrush
+# Xiaomi Elecric Toothbrush DDYS01SKS
 
 {% tabs %}
 {% tab title="Характеристики" %}
