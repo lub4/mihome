@@ -26,28 +26,34 @@
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Камера</th>
+      <th style="text-align:left">&#x41A;&#x430;&#x43C;&#x435;&#x440;&#x430;</th>
       <th style="text-align:left"></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">Основная камера</td>
-      <td style="text-align:left">двойная, 48 Mp + 5 Mp</td>
+      <td style="text-align:left">&#x41E;&#x441;&#x43D;&#x43E;&#x432;&#x43D;&#x430;&#x44F; &#x43A;&#x430;&#x43C;&#x435;&#x440;&#x430;</td>
+      <td
+      style="text-align:left">&#x434;&#x432;&#x43E;&#x439;&#x43D;&#x430;&#x44F;, 48 Mp + 5 Mp</td>
     </tr>
     <tr>
-      <td style="text-align:left">Особенности основной камеры</td>
-      <td style="text-align:left">1.6 μm, f/1.8; EIS</td>
+      <td style="text-align:left">&#x41E;&#x441;&#x43E;&#x431;&#x435;&#x43D;&#x43D;&#x43E;&#x441;&#x442;&#x438;
+        &#x43E;&#x441;&#x43D;&#x43E;&#x432;&#x43D;&#x43E;&#x439; &#x43A;&#x430;&#x43C;&#x435;&#x440;&#x44B;</td>
+      <td
+      style="text-align:left">1.6 &#x3BC;m, f/1.8; EIS</td>
     </tr>
     <tr>
-      <td style="text-align:left">Фронтальная камера</td>
+      <td style="text-align:left">&#x424;&#x440;&#x43E;&#x43D;&#x442;&#x430;&#x43B;&#x44C;&#x43D;&#x430;&#x44F;
+        &#x43A;&#x430;&#x43C;&#x435;&#x440;&#x430;</td>
       <td style="text-align:left">13 Mp</td>
     </tr>
     <tr>
-      <td style="text-align:left">Разрешение видео</td>
+      <td style="text-align:left">&#x420;&#x430;&#x437;&#x440;&#x435;&#x448;&#x435;&#x43D;&#x438;&#x435;
+        &#x432;&#x438;&#x434;&#x435;&#x43E;</td>
       <td style="text-align:left">
         <p>1080p@60fps/20fps; 720p@30fps;</p>
-        <p>замедленное видео: 720fps@120fps; 1080p@120fps</p>
+        <p>&#x437;&#x430;&#x43C;&#x435;&#x434;&#x43B;&#x435;&#x43D;&#x43D;&#x43E;&#x435;
+          &#x432;&#x438;&#x434;&#x435;&#x43E;: 720fps@120fps; 1080p@120fps</p>
       </td>
     </tr>
   </tbody>
