@@ -14,7 +14,9 @@
 ## Экосистема Mijia \(Mi Home\)
 
 * [Новинки краудфандинга Xiaomi youpin](ekosistema-mijia-mi-home/novinki-kraudfandinga-xiaomi-youpin/README.md)
+  * [Xiaomi Yunmai Smart Training Watch YM-W1801](ekosistema-mijia-mi-home/novinki-kraudfandinga-xiaomi-youpin/xiaomi-yunmai-smart-training-watch-ym-w1801.md)
   * [Xiaomi AFU Aphrodite Oil Fragrance AFU-XM-001](ekosistema-mijia-mi-home/novinki-kraudfandinga-xiaomi-youpin/xiaomi-afu-aphrodite-oil-fragrance-afu-xm-001.md)
+  * [Xiaomi Move It Punch Kick MVPB0001](ekosistema-mijia-mi-home/novinki-kraudfandinga-xiaomi-youpin/xiaomi-move-it-punch-kick-mvpb0001.md)
 * [Категории устройств](ekosistema-mijia-mi-home/kategorii-ustroistv/README.md)
   * [Красота и здоровье](ekosistema-mijia-mi-home/kategorii-ustroistv/krasota-i-zdorove/README.md)
     * [Умные весы](ekosistema-mijia-mi-home/kategorii-ustroistv/krasota-i-zdorove/umnye-vesy/README.md)
